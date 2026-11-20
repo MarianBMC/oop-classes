@@ -25,6 +25,11 @@ public:
 		cout << "\nProdus " << this->denumire << ", pret " << this->pret << ", stoc " << this->stoc;
 	}
 
+	bool operator>(Produs p, int x)
+	{
+
+	}
+
 	Produs()
 	{
 
