@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Sem8/Sem8.vcxproj" />
+  <Project Path="Sem8/Sem8.vcxproj" Id="b40ddc01-9686-4006-91b1-0c6808d3f2e6" />
 </Solution>
